@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Charcoal Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Access to unnamed cave #1 via northeast wall.]]></description>
+			<Point>
+				<coordinates>-121.162387,43.90277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Arnold Ice Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.15898600000001,43.905275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Unnamed cave #1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Access to unnamed cave #2 via north wall.
+
+Also access to Charcoal cave via opening in south wall.]]></description>
+			<Point>
+				<coordinates>-121.161861,43.903497,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Unnamed cave #2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Access to unnamed cave #1 via south wall.]]></description>
+			<Point>
+				<coordinates>-121.16192600000001,43.903961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Unnamed collapse</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.15960799999999,43.905754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Collapsed pond # 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.146165,43.909619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Unnamed collapse</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.144111,43.911451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Deg cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location approximated]]></description>
+			<Point>
+				<coordinates>-121.14392300000002,43.912935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-24</styleUrl>
+			<name>Bat cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location approximated.]]></description>
+			<Point>
+				<coordinates>-121.14492099999998,43.917835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-24</styleUrl>
+			<name>Wind Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Closed to cavers.]]></description>
+			<Point>
+				<coordinates>-121.14374000000001,43.919102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-24</styleUrl>
+			<name>Dark Hole</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[a.k.a Wind Cave skylight.]]></description>
+			<Point>
+				<coordinates>-121.14373000000002,43.920223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Collapsed pond #2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.134245,43.922642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Unnamed cave # 3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location approximated.]]></description>
+			<Point>
+				<coordinates>-121.14580000000001,43.910377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Pictograph Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.130877,43.923569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Collapsed pond # 3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.117272,43.924991,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Charcoal Cave # 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.11643600000001,43.925764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Collapsed pond # 4</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.114569,43.926691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Stookey Ranch Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.113431,43.92726300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Collapsed pond # 5</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.10652200000001,43.930137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Boyd Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.19825599999999,43.942195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Skeleton Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.17750899999999,43.950293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-123</styleUrl>
+			<name>Unnamed collapse?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.150443,43.908075000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-123'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-22'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-24'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
